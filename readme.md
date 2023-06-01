@@ -34,8 +34,6 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 **Medios**   Github.
 
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
-
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
@@ -45,10 +43,46 @@ Nada más entrar al videojuego, lo primero con lo que te encuentras es un traile
 
 ### 2.2. Esquema de navegación 
 
+Menú principal
 
 ![teaseeeeeerr](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/b545eb08-952f-4ec0-86cf-9fb9012acd0c)
 
+Menú niveles
 
+![IMG_4117](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/e7e2935b-79d7-4db6-801d-8af2fb2b42e5)
+
+
+Galería
+
+![IMG_4116](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/7017faea-4bc2-4342-9928-5998d6cb2ddd)
+
+
+Cómo jugar
+
+![IMG_4121](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/334589d0-7b96-4e49-a3ec-d3ad58d7bdfc)
+
+
+Créditos
+
+![IMG_4115](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/3cabeed8-5f10-40a0-a812-75d47ecd7a72)
+
+Nivel 1
+
+![IMG_4118](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/adba682b-c72b-4e78-87b9-b5cf18bb1fcc)
+
+
+Nivel 2
+
+![IMG_4119](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/7549fcb1-c3cf-4ba4-99aa-9c35c52f95e2)
+
+
+Nivel 3
+
+![IMG_4120](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/c6b777c3-19c6-4147-b254-a3f1bde099c5)
+
+Has ganado
+
+![IMG_4122](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/8dc3a43b-2be8-4176-a795-e21cfaa41194)
 
 
 # 3. Metodología
