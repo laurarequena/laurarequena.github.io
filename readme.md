@@ -10,7 +10,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Titulo** : Lost
 
-**Web:**   (url github.io)
+**Web:**  laurarquena.github.io
 
 **Autor:**  Laura Requena Hernández
 
@@ -18,13 +18,12 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  plataformas.
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
+**Logotipo** : ![dotpictttttttttttt (1)](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/17a14dfe-40db-4da6-bdbd-9adf06c214ae)
 
-(insertar imágenes a resolucion de 100px alto)
 
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
+**Resolución:** 800x600px responsivo/o tamaño fijo (reescalable)
 
-**Probado en:**    MS Edge.
+**Probado en:**    Google chrome, MS Edge.
 
 **Tamaño proyecto:** 131KB
 
@@ -40,102 +39,73 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 # 2. Memoria del proyecto 
 
 ### 2.1 Storyboard: 
+Nada más entrar al videojuego, lo primero con lo que te encuentras es un trailer que te cuenta de qué va el vieojuego. Éste te lleva a la pantalla principal, desde la que puedes acceder a los créditos, un botón que te explica cómo jugar, la galería y, por último el botón de jugar. Al pulsar este, aparece el menú con los tres minijuegos. Si te los pasas, automáticamente te lleva a una pantalla en la que te felicita por habertelo pasado.
 
-
-
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
-
-
+ 
 
 ### 2.2. Esquema de navegación 
 
 
-
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
+![teaseeeeeerr](https://github.com/laurarequena/laurarequena.github.io/assets/135208709/b545eb08-952f-4ec0-86cf-9fb9012acd0c)
 
 
 
 
 # 3. Metodología
 
-Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
-
-
-
 ### Etapa 1: Ideación de proyecto
 
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
+- Inspiración en la estética de los videojuegos Stardew Valley y harvest moon.
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
-
+Este proyecto surgió de que cuando le comenté a mi madre (que es profesora de infantil) que iba a realizar un videojuego para la universidad; ésta me pidió si podía hacerlo para un público acorde a la edad de sus alumnos, ya que le haría ilusión que éstos pudiesen jugarlo.
+El hecho de que la estética sea píxel es porque me recordaba más a los juegos que solía jugar en mi infancia.
 
 
 **Publico / audiencia**
 
-- Orientado a 
-
+- Orientado a un público infantil.
 
 
 
 
 ### Etapa 2: Desarrollo / actividades realizadas
-
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
-
+En primer lugar realicé el teaser, el cual se compone pincipalmenten de una secuencia de imágenes sobre las que hay un bocadillo y un texto que cuenta historia principal del juego. Hacer esta parte no me supuso ningún tipo de problema ya que eran cosas más básicas. Después lo alargué añadiendole el empezar del juego en el que se ve el logotipo y los botones con las opciones. Una vez acabado eso, me puse a hacer la galería, la cual llevé a cabo mediante unos botones que programé para que avanzasen y retrocediesen lo necesario; esta se compone principalmene de imagenes que se suceden una detras de otra hasta el final, que es un vídeo. En esta parte, lo más complicado fue lograr que el vídeo se reproduciese.
+Cuando ya había acabado con eso, pasé a los créditos, que fueron los más sencillos de hacer.
+Después procedí a hacer el menú con los botones que te llevasen a los correspondientes niveles; y es aquí cuando empezó la parte más complicada, la de programar los movimientos de la muñeca y la de hacer las colisiones. También añadí una pantalla que aparece cuando te pasas el nivel.
+Una vez tenía todo eso, añadí un botón en la pantalla principal (la previa a los niveles) que te lleva a una explicación de cómo se juega. Por último le fui añadiendo sonido a los botones.
 
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
+El mayor problema a destacar sería que al añadirle tantos códigos al scrip, éste (si se abre desde hippani) manda un mensaje en el que pone que el scrip está tardando en responder; sin embargo, al exportarlo, funciona perfectamente.
 
 
 
 # 4. Conclusiones 
-
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
-
-
-
-
-
+Al realizar el juego, las cosas que más problemas me han supuesto han sido, sobretodo, el hacer que el personake se moviese con el teclado y el hacer que colisione. En un futuro me gustaría, entre otras cosas, poder hacer más niveles en lugar de que sean solo tres.
 
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
 * Musica:  
-* Imágenes:  
-* Tipografía
+* Imágenes: algunas hechas por mi, el resto las saqué de pinterest y, más concretamente de las siguientes cuentas de artistas:
+              *  xQu!nn.
+              *  CERO.
+              *  S7even.
+              *  Softwaring.
+* Tipografía: mía.
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
-
-
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
+- Photoshop cs6
+- dotpict
 
 https://creativecommons.org/licenses/?lang=es
 
