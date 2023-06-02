@@ -127,7 +127,7 @@ Al realizar el juego, las cosas que más problemas me han supuesto han sido, sob
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
+* Musica: "Una canción para no decir te quiero" de La M.O.D.A.
 * Imágenes: algunas hechas por mi, el resto las saqué de pinterest y, más concretamente de las siguientes cuentas de artistas:
               *  xQu!nn.
               *  CERO.
